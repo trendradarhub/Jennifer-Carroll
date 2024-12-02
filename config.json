@@ -11,8 +11,8 @@
     "AdInterval": 10,
     
     "BannerNetwork"      : "hws",
-    "InterstitialNetwork": "admob",
-    "RewardNetwork"      : "admob",
+    "InterstitialNetwork": "hws",
+    "RewardNetwork"      : "hws",
     
     "AdPlacement": {
       
@@ -25,9 +25,9 @@
       "ApplovinInterstitialAd": "98f6a586ed642919",
       "ApplovinRewardAd": "98f6a586ed642919",
       
-      "HuaweiBanner": "testw6vs28auh3",
-      "HuaweiInterstitialAd": "testb4znbuh3n2",
-      "HuaweiRewardAd": "testx9dtjwj8hp"
+      "HuaweiBanner": "testw6vs28auh355",
+      "HuaweiInterstitialAd": "testb4znbuh3n255",
+      "HuaweiRewardAd": "testx9dtjwj8hpggg"
     }
   },
   
