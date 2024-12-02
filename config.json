@@ -16,9 +16,9 @@
     
     "AdPlacement": {
       
-      "AdMobBanner": "",
-      "AdMobInterstitialAd": "",
-      "AdMobRewardAd": "",
+      "AdMobBanner": "test",
+      "AdMobInterstitialAd": "test",
+      "AdMobRewardAd": "test",
       
       "ApplovinKey": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
       "ApplovinBanner": "da17eff31ae69f15",
