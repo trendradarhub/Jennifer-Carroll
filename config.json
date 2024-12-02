@@ -8,17 +8,17 @@
     
     "README": "To run ads for each network, enter one of the following: 'admob', 'applovin', or 'hws'.",
     
-    "AdInterval": 0,
+    "AdInterval": 1,
     
-    "BannerNetwork"      : "applovin",
-    "InterstitialNetwork": "applovin",
-    "RewardNetwork"      : "applovin",
+    "BannerNetwork"      : "hws",
+    "InterstitialNetwork": "admob",
+    "RewardNetwork"      : "admob",
     
     "AdPlacement": {
       
-      "AdMobBanner": "test",
-      "AdMobInterstitialAd": "test",
-      "AdMobRewardAd": "test",
+      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitialAd": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobRewardAd": "ca-app-pub-3940256099942544/5224354917",
       
       "ApplovinKey": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
       "ApplovinBanner": "da17eff31ae69f15",
