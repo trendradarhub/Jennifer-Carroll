@@ -1,6 +1,6 @@
 {
   "appRedirect": {
-    "status": true,
+    "status": false,
     "redirectURL": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
   },
 
