@@ -10,15 +10,15 @@
     
     "AdInterval": 0,
     
-    "BannerNetwork"      : "hws",
-    "InterstitialNetwork": "hws",
-    "RewardNetwork"      : "hws",
+    "BannerNetwork"      : "admob",
+    "InterstitialNetwork": "admob",
+    "RewardNetwork"      : "admob",
     
     "AdPlacement": {
       
-      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
-      "AdMobInterstitialAd": "ca-app-pub-3940256099942544/1033173712",
-      "AdMobRewardAd": "ca-app-pub-3940256099942544/5224354917",
+      "AdMobBanner": "",
+      "AdMobInterstitialAd": "",
+      "AdMobRewardAd": "",
       
       "ApplovinKey": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
       "ApplovinBanner": "da17eff31ae69f15",
@@ -48,7 +48,7 @@
       {
         "title": "MineCarft Test Addon",
         "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
-        "isLocked": true,
+        "isLocked": false,
         "coins": 50,
         "description": "your description her about MineCarft Test Addon",
         "preview": [
@@ -60,7 +60,7 @@
       {
         "title": "MineCarft Test 3",
         "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
-        "isLocked": true,
+        "isLocked": false,
         "coins": 50,
         "description": "your description her about MineCarft Test Addon",
         "preview": [
@@ -73,7 +73,7 @@
   },
   
   "AppsPromote": {
-    "status": true,
+    "status": false,
     "apps": [
       {
         "name": "Minecraft PE skyblock",
