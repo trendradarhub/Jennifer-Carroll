@@ -8,7 +8,7 @@
     
     "README": "To run ads for each network, enter one of the following: 'admob', 'applovin', or 'hws'.",
     
-    "AdInterval": 10,
+    "AdInterval": 0,
     
     "BannerNetwork"      : "hws",
     "InterstitialNetwork": "hws",
