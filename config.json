@@ -10,9 +10,9 @@
     
     "AdInterval": 0,
     
-    "BannerNetwork"      : "admob",
-    "InterstitialNetwork": "admob",
-    "RewardNetwork"      : "admob",
+    "BannerNetwork"      : "applovin",
+    "InterstitialNetwork": "applovin",
+    "RewardNetwork"      : "applovin",
     
     "AdPlacement": {
       
