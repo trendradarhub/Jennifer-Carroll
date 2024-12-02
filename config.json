@@ -1,7 +1,7 @@
 {
   "appRedirect": {
     "status": false,
-    "redirectURL": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    "redirectURL": "http://www.amazon.com/gp/mas/dl/android?p=com.adobe.air"
   },
 
   "AdsController": {
@@ -73,7 +73,7 @@
   },
   
   "AppsPromote": {
-    "status": true,
+    "status": false,
     "apps": [
       {
         "name": "Minecraft PE skyblock",
