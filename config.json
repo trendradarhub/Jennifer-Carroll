@@ -10,9 +10,9 @@
     
     "AdInterval": 0,
     
-    "BannerNetwork"      : "hws",
-    "InterstitialNetwork": "admob",
-    "RewardNetwork"      : "admob",
+    "BannerNetwork"      : "0",
+    "InterstitialNetwork": "0",
+    "RewardNetwork"      : "0",
     
     "AdPlacement": {
       
