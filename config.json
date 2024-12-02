@@ -1,6 +1,6 @@
 {
   "appRedirect": {
-    "status": false,
+    "status": trur,
     "redirectURL": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
   },
 
@@ -10,9 +10,9 @@
     
     "AdInterval": 0,
     
-    "BannerNetwork"      : "0",
-    "InterstitialNetwork": "0",
-    "RewardNetwork"      : "0",
+    "BannerNetwork"      : "hws",
+    "InterstitialNetwork": "hws",
+    "RewardNetwork"      : "hws",
     
     "AdPlacement": {
       
