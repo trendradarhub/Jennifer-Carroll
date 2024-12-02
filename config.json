@@ -73,7 +73,7 @@
   },
   
   "AppsPromote": {
-    "status": false,
+    "status": true,
     "apps": [
       {
         "name": "Minecraft PE skyblock",
